@@ -11,7 +11,7 @@ I am running a live version of this code on [arxiv-sanity-lite.com](https://arxi
 
 To run this locally I usually run the following script to update the database with any new papers. I typically schedule this via a periodic cron job:
 
-```bash🙌
+```bash😘
 #!/bin/bash
 
 python3 arxiv_daemon.py --num 2000
